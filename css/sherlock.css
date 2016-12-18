@@ -14,7 +14,7 @@ text-align: center;
 }
 
 .sectionTwo {
-height: 100vh;	
+height: 70vh;	
 background-color: #54575e;
 text-align: center;
 }
@@ -24,31 +24,31 @@ text-align: center;
 
 
 .sectionThree {
-	height: 100vh;	
+	height: 40vh;	
 	background-color:#c6c275 ;
 	text-align: center;
 }
 	
 .sectionFour {
-	height: 25vh;	
+	height: 40vh;	
 	background-color: #54575e;
 	text-align: center;
 }
 
 .sectionFive {
-	height: 100vh;	
+	height: 40vh;	
 	background-color: #c6c275;
 	text-align: center;
 }
 
 .sectionSix {
-	height: 100vh;	
+	height: 40vh;	
 	background-color: #54575e;
 	text-align: center;
 }
 
 .sectionSeven {
-	height: 100vh;	
+	height: 40vh;	
 	background-color: #c6c275;
 	text-align: center;
 }
