@@ -1,7 +1,7 @@
 nav { text-align: center; }
 nav ul li { display: inline-block; }
 .nav_item {
-	padding: 0px 0px;
+	padding: 20px 30px;
 	display: inline-block;
 }
 ul {
@@ -20,7 +20,7 @@ li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 0px 0px;
     text-decoration: none;
 }
 
