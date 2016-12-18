@@ -9,13 +9,13 @@ section { padding: 20px; }
 
 .sectionOne {
 height: 100vh;	
-background-color: skyblue;
+background-color: #c6c275;
 text-align: center;
 }
 
 .sectionTwo {
 height: 100vh;	
-background-color: gold;
+background-color: #54575e;
 text-align: center;
 }
 
@@ -25,31 +25,31 @@ text-align: center;
 
 .sectionThree {
 	height: 100vh;	
-	background-color: violet;
+	background-color:#c6c275 ;
 	text-align: center;
 }
 	
 .sectionFour {
 	height: 25vh;	
-	background-color: red;
+	background-color: #54575e;
 	text-align: center;
 }
 
 .sectionFive {
 	height: 100vh;	
-	background-color: violet;
+	background-color: #c6c275;
 	text-align: center;
 }
 
 .sectionSix {
 	height: 100vh;	
-	background-color: violet;
+	background-color: #54575e;
 	text-align: center;
 }
 
 .sectionSeven {
 	height: 100vh;	
-	background-color: violet;
+	background-color: #c6c275;
 	text-align: center;
 }
 
@@ -58,8 +58,3 @@ text-align: center;
 hr {border: 1px solid white; width: 25%; }
 
 /////////////IMAGES/////////////
-
-.monogram {align-content: center;
-max-width: 50%;
-height:auto;
-}
