@@ -85,3 +85,39 @@ text-align: center;
 hr {border: 1px solid white; width: 25%; }
 
 /////////////IMAGES/////////////
+
+.sherlock {
+    position: left;
+    left: 0;
+    top: 50%;
+    width: 60%;
+    text-align: center;
+    font-size: 18px;
+}
+
+.drwatson {
+    position: right;
+    left: 0;
+    top: 50%;
+    width: 60%;
+    text-align: center;
+    font-size: 18px;
+}
+
+.moriarty {
+    position: left;
+    left: 0;
+    top: 50%;
+    width: 60%;
+    text-align: center;
+    font-size: 18px;
+}
+
+.irene {
+    position: right;
+    left: 0;
+    top: 50%;
+    width: 60%;
+    text-align: center;
+    font-size: 18px;
+}
