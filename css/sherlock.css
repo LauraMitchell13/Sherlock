@@ -98,7 +98,11 @@ hr {border: 1px solid white; width: 25%; }
 .irene {width: 35vw; float: left;}
 .ir {width:25vw; float:right;}
 
-h1{
+h1 {
+    color: #fff;
+    text-align: center;
+    font-size: 5em;
+    padding-top: 2em;
     font-family: 'Diplomata', cursive;
 }
 
