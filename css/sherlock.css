@@ -97,3 +97,14 @@ hr {border: 1px solid white; width: 25%; }
 
 .irene {width: 35vw; float: left;}
 .ir {width:25vw; float:right;}
+
+h1{
+    font-family: 'Diplomata', cursive;
+}
+
+h2{
+    font-family: 'Diplomata', cursive;
+}
+p{
+    font-family: 'Prociono', serif;
+}
