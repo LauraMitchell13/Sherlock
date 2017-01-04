@@ -1,4 +1,5 @@
 nav { text-align: center; 
+    padding: 0em;
     
 }
 nav ul li { display: inline-block; }
