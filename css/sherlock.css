@@ -37,7 +37,7 @@ li a:hover:not(.active) {
     background-color: #a5a008;
 }
 
-section { padding: 2px; }
+section { padding: 1px; }
 
 .sectionOne {
 height: 100vh;	
