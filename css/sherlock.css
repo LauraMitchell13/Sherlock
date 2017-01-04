@@ -1,4 +1,6 @@
-nav { text-align: center; }
+nav { text-align: center; 
+    
+}
 nav ul li { display: inline-block; }
 .nav_item {
 	padding: 20px 30px;
@@ -10,6 +12,10 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #000000;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 
 li {
