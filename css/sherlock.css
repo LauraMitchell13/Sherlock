@@ -141,3 +141,8 @@ p{
     font-family: 'Prociono', serif;
 }
 
+p.sir {
+    height: 100px;
+    width: 100px;
+}
+
