@@ -100,13 +100,24 @@ hr {border: 1px solid white; width: 25%; }
 .dw {width:25vw; float:right;
 }
 
-.moriarty {width: 35vw; float: right;
+.moriarty {width: 35vw; 
+    float: right;
+    padding-top: 3em;
+    padding-bottom: 0.5em;
+    padding right: 3em;
+    padding-left: 1.5em;
+    
 -webkit-column-count: 3; /* Chrome, Safari, Opera */
     -moz-column-count: 3; /* Firefox */
     column-count: 3;}
 .mor {width:25vw; float:left;}
 
-.irene {width: 35vw; float: left;
+.irene {width: 35vw; 
+    float: left;
+     padding-top: 3em;
+    padding-bottom: 0.5em;
+    padding right: 3em;
+    padding-left: 1.5em;
 -webkit-column-count: 3; /* Chrome, Safari, Opera */
     -moz-column-count: 3; /* Firefox */
     column-count: 3;}
