@@ -87,19 +87,29 @@ hr {border: 1px solid white; width: 25%; }
 
 
 
-.sherlock {width: 35vw; float: right;}
+.sherlock {width: 35vw; float: right;
+-webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;}
 .sh {width:25vw; float:left;}
 
 .drwatson {width: 35vw; float: left;
 -webkit-column-count: 3; /* Chrome, Safari, Opera */
     -moz-column-count: 3; /* Firefox */
     column-count: 3;}
-.dw {width:25vw; float:right;}
+.dw {width:25vw; float:right;
+}
 
-.moriarty {width: 35vw; float: right;}
+.moriarty {width: 35vw; float: right;
+-webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;}
 .mor {width:25vw; float:left;}
 
-.irene {width: 35vw; float: left;}
+.irene {width: 35vw; float: left;
+-webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;}
 .ir {width:25vw; float:right;}
 
 h1 {
@@ -112,6 +122,7 @@ h1 {
 
 h2{
     font-family: 'Diplomata', cursive;
+    text-align: center;
 }
 p{
     font-family: 'Prociono', serif;
