@@ -54,25 +54,25 @@ text-align: center;
 
 
 .sectionThree {
-	height: 70vh;	
+	height: 80vh;	
 	background-color:#c6c275;
 	text-align: right;
 }
 	
 .sectionFour {
-	height: 70vh;	
+	height: 90vh;	
 	background-color: #c6c275;
 	text-align: left;
 }
 
 .sectionFive {
-	height: 70vh;	
+	height: 90vh;	
 	background-color: #c6c275;
 	text-align: right;
 }
 
 .sectionSix {
-	height: 70vh;	
+	height: 80vh;	
 	background-color: #c6c275;
 	text-align: left;
 }
@@ -85,39 +85,44 @@ text-align: center;
 
 hr {border: 1px solid white; width: 25%; }
 
-/////////////IMAGES/////////////
 
-.holmes {width: 35vw; 
-    float: right;
-     padding-top: 3em;
-    padding-bottom: 0.5em;
-    padding right: 3em;
-    padding-left: 1.5em;
+.sherlock {width: 35vw;
+    float:right;
+    padding-right: 5em;
+    padding-top: 5em;
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;}
+.sh {width:25vw; 
+    float:left;
+    padding-left: 5em;
+    padding-top: 3em;
+}
+
+.drwatson {width: 35vw; 
+    float: left;
+    padding-left: 5em;
+    padding-top: 4em;
 -webkit-column-count: 3; /* Chrome, Safari, Opera */
     -moz-column-count: 3; /* Firefox */
     column-count: 3;}
-.sh {width:25vw; float:left;}
-
-.drwatson {width: 35vw; float: left;
--webkit-column-count: 3; /* Chrome, Safari, Opera */
-    -moz-column-count: 3; /* Firefox */
-    column-count: 3;}
-.dw {width:25vw; float:right;
+.dw {width:25vw; 
+    float:right;
+    padding-right: 5em;
+    padding-top: 3em;
 }
 
 .moriarty {width: 35vw; 
     float: right;
-    padding-top: 3em;
-    padding-bottom: 0.5em;
-    padding right: 5em;
-    padding-left: 5em;
-    
+        padding-right: 5em;
+    padding-top: 8em;
 -webkit-column-count: 3; /* Chrome, Safari, Opera */
     -moz-column-count: 3; /* Firefox */
     column-count: 3;}
 .mor {width:25vw; 
     float:left;
-padding-left: 5em;}
+padding-left: 5em;
+padding-top: 4em;}
 
 .irene {width: 35vw; 
     float: left;
