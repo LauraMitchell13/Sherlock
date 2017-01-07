@@ -23,6 +23,7 @@ li {
 }
 
 li a {
+    font-family: 'Arima Madurai', cursive;
     display: block;
     color: white;
     text-align: center;
