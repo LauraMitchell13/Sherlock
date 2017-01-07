@@ -85,6 +85,10 @@ text-align: center;
 	text-align: center;
 }
 
+footer {
+    background-color: #000;
+    height:11vh;
+}
 hr {border: 1px solid white; width: 100%; }
 
 
@@ -145,6 +149,7 @@ padding-top: 4em;}
     column-count: 3;}
 .ir {width:25vw; 
     float:right;
+    padding-top: 3em;
 padding-right: 5em;}
 
 h1 {
@@ -162,19 +167,21 @@ h2{
    font-family: 'Arima Madurai', cursive;
     text-align: center;
 }
-p{
+p.two{
     font-family: 'Prociono', serif;
     width: 70%;
     text-align: center;
     padding-left: 12em;
+}
+p.three{ font-family: 'Prociono', serif;
+    text-align: center;
+    color: #fff;
 }
 
 p.sir {
      font-family: 'Arima Madurai', cursive;
     font-size: 1.4em;
     height: 200px;
-    padding-right: 20em;
-    margin-right: 18em;
     padding-top: 2em;
     
     text-align:center;
