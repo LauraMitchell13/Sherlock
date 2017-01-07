@@ -137,7 +137,10 @@ h1 {
 }
 
 h2{
-    font-family: 'Diplomata', cursive;
+    color: #fff;
+    padding-top: 2em;
+    font-size: 5em;
+   font-family: 'Arima Madurai', cursive;
     text-align: center;
 }
 p{
