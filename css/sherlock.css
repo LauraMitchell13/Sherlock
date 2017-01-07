@@ -89,7 +89,12 @@ hr {border: 1px solid white; width: 25%; }
 
 
 
-.sherlock {width: 35vw; float: right;
+.sherlock {width: 35vw; 
+    float: right;
+     padding-top: 3em;
+    padding-bottom: 0.5em;
+    padding right: 3em;
+    padding-left: 1.5em;
 -webkit-column-count: 3; /* Chrome, Safari, Opera */
     -moz-column-count: 3; /* Firefox */
     column-count: 3;}
@@ -144,6 +149,6 @@ p{
 p.sir {
     height: 200px;
     width: 200px;
-    text-align: centre;
+    text-align:center;
 }
 
