@@ -41,8 +41,10 @@ li a:hover:not(.active) {
 section { padding: 1px; }
 
 .sectionOne {
-height: 100vh;	
-background-color: #54575e;
+height: 110vh;	
+     background-image: url(../images/background.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
 text-align: center;
 }
 
@@ -54,26 +56,26 @@ text-align: center;
 
 
 .sectionThree {
-	height: 80vh;	
-	background-color:#c6c275;
+	height: 90vh;	
+	background-color:#000;
 	text-align: right;
 }
 	
 .sectionFour {
 	height: 90vh;	
-	background-color: #c6c275;
+	background-color: #000;
 	text-align: left;
 }
 
 .sectionFive {
 	height: 90vh;	
-	background-color: #c6c275;
+	background-color: #000;
 	text-align: right;
 }
 
 .sectionSix {
-	height: 80vh;	
-	background-color: #c6c275;
+	height: 90vh;	
+	background-color: #000;
 	text-align: left;
 }
 
@@ -90,6 +92,8 @@ hr {border: 1px solid white; width: 25%; }
     float:right;
     padding-right: 5em;
     padding-top: 5em;
+    font-family: 'Prociono', serif;
+    color:#c6c275;
     -webkit-column-count: 3; /* Chrome, Safari, Opera */
     -moz-column-count: 3; /* Firefox */
     column-count: 3;}
@@ -103,6 +107,8 @@ hr {border: 1px solid white; width: 25%; }
     float: left;
     padding-left: 5em;
     padding-top: 4em;
+    font-family: 'Prociono', serif;
+    color:#c6c275;
 -webkit-column-count: 3; /* Chrome, Safari, Opera */
     -moz-column-count: 3; /* Firefox */
     column-count: 3;}
@@ -116,6 +122,8 @@ hr {border: 1px solid white; width: 25%; }
     float: right;
         padding-right: 5em;
     padding-top: 8em;
+    font-family: 'Prociono', serif;
+    color:#c6c275;
 -webkit-column-count: 3; /* Chrome, Safari, Opera */
     -moz-column-count: 3; /* Firefox */
     column-count: 3;}
@@ -130,6 +138,8 @@ padding-top: 4em;}
     padding-bottom: 0.5em;
     padding right: 3em;
     padding-left: 5em;
+    font-family: 'Prociono', serif;
+    color:#c6c275;
 -webkit-column-count: 3; /* Chrome, Safari, Opera */
     -moz-column-count: 3; /* Firefox */
     column-count: 3;}
@@ -140,8 +150,8 @@ padding-right: 5em;}
 h1 {
     color: #fff;
     text-align: center;
-    font-size: 10em;
-    padding-top: 0.2em;
+    font-size: 8em;
+    padding-bottom: 5em;
     font-family: 'Diplomata', cursive;
 }
 
