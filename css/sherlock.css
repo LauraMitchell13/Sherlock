@@ -109,24 +109,28 @@ hr {border: 1px solid white; width: 25%; }
     float: right;
     padding-top: 3em;
     padding-bottom: 0.5em;
-    padding right: 3em;
-    padding-left: 1.5em;
+    padding right: 5em;
+    padding-left: 5em;
     
 -webkit-column-count: 3; /* Chrome, Safari, Opera */
     -moz-column-count: 3; /* Firefox */
     column-count: 3;}
-.mor {width:25vw; float:left;}
+.mor {width:25vw; 
+    float:left;
+padding-left: 5em;}
 
 .irene {width: 35vw; 
     float: left;
-     padding-top: 3em;
+     padding-top: 4em;
     padding-bottom: 0.5em;
     padding right: 3em;
-    padding-left: 1.5em;
+    padding-left: 5em;
 -webkit-column-count: 3; /* Chrome, Safari, Opera */
     -moz-column-count: 3; /* Firefox */
     column-count: 3;}
-.ir {width:25vw; float:right;}
+.ir {width:25vw; 
+    float:right;
+padding-right: 5em;}
 
 h1 {
     color: #fff;
